@@ -15,5 +15,5 @@ These scripts are designed to be run in the [Google Earth Engine Code Editor](ht
 
 ## Authors
 * Somdeep Kundu 
-* Arunima Chakraborty 
+* Pennan Chinnasamy 
 *(RuDRA Lab, Centre for Technology Alternatives for Rural Areas, IIT Bombay)*
