@@ -27,7 +27,7 @@ The time-series visualization and spatial reducer extractions reveal significant
 ### 3.1 Time-Series Trends (2021–2024)
 Analysis of the extracted TWSa data demonstrates the intense cyclical nature of monsoon water-loading in the Wayanad region. The baseline data highlights previous extreme loading events. By plotting a linear trendline across the 5-year period, the model isolates the baseline "normal" peak saturation, providing a threshold against which the 2024 event is measured.
 
-![Time-series chart of the Total Water Storage anomaly](timeseries_chart_image.png)
+![Time-series chart of the Total Water Storage anomaly](timeseries_chart_image5.png)
 *Figure 2: Time-series chart of the Total Water Storage anomaly (TWSa) from 2021 to 2026, indicating the cyclical mass-loading peaks and the recent 5-year structural trend.*
 
 ### 3.2 Pre-Slide Water Load and Mass Excess
