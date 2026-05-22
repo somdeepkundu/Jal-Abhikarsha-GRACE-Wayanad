@@ -17,7 +17,7 @@ To capture the localized gravimetric footprint of the event, a custom Google Ear
 * **Temporal Scope:** A focused five-year recent baseline (January 2021 to June 2026) was established to isolate current climate normals from long-term historical noise.
 * **Spatial Scope:** A 150 km radial footprint centered precisely on the headscarp of the slide (`76.2327° E, 11.7818° N`). This radius aligns with the resolvable spatial limits of GRACE footprint scales while effectively capturing the regional aquifer network.
 
-![Spatial framework detailing the 150 km radial footprint](path/to/your/footprint_map_image.png)
+![Spatial framework detailing the 150 km radial footprint](footprint_map_image.png)
 *Figure 1: Spatial framework detailing the 150 km radial footprint surrounding the Mundakkai–Chooralmala headscarp within the GEE environment.*
 
 ## 3. Data Analysis & Observations
@@ -27,13 +27,13 @@ The time-series visualization and spatial reducer extractions reveal significant
 ### 3.1 Time-Series Trends (2021–2024)
 Analysis of the extracted TWSa data demonstrates the intense cyclical nature of monsoon water-loading in the Wayanad region. The baseline data highlights previous extreme loading events. By plotting a linear trendline across the 5-year period, the model isolates the baseline "normal" peak saturation, providing a threshold against which the 2024 event is measured.
 
-![Time-series chart of the Total Water Storage anomaly](path/to/your/timeseries_chart_image.png)
+![Time-series chart of the Total Water Storage anomaly](timeseries_chart_image.png)
 *Figure 2: Time-series chart of the Total Water Storage anomaly (TWSa) from 2021 to 2026, indicating the cyclical mass-loading peaks and the recent 5-year structural trend.*
 
 ### 3.2 Pre-Slide Water Load and Mass Excess
 The core diagnostic of this study lies in quantifying how "water-loaded" the region was prior to the failure. Based on the spatial reducer outputs over the footprint, the differential calculation reveals a distinct positive mass excess.
 
-![Extracted numerical parameters from GEE side panel](path/to/your/side_panel_stats_image.png)
+![Extracted numerical parameters from GEE side panel](side_panel_stats_image.png)
 *Figure 3: Extracted numerical parameters comparing the acute June–July 2024 loading phase against the 5-year climatological baseline.*
 
 The positive excess translates directly to immense physical weight. The specific July excess confirms that the region was carrying a substantially higher volume of water in its aquifers and soil profile than its recent structural baseline could sustainably support.
