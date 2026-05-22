@@ -41,7 +41,7 @@ The positive excess translates directly to immense physical weight. The specific
 ### 3.3 Visualizing Annual Structural Variances
 The standalone comparative map layers generated for July 2022, 2023, and 2024 visually track these anomalies across the landscape, displaying the localized gravitational void and accumulation zones.
 
-![Gravimetric visualization for July 2024](path/to/your/july2024_map_layer.png)
+![Gravimetric visualization for July 2024](july2024_map_layer.png)
 *Figure 4: Gravimetric visualization of the Total Water Storage anomaly for July 2024 within the established footprint.*
 
 ## 4. Discussion
